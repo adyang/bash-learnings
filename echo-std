@@ -1,0 +1,4 @@
+#!/bin/bash
+
+printf 'stdout appears! '
+printf 'stderr appears!\n' >&2
